@@ -21,7 +21,7 @@ A simple and interactive contact management web application built using **JavaSc
 ---
 
 ## 📸 Screenshots
-*(Add images of your app here for better presentation)*
+![Home Page](./img/github1.png)
 
 ---
 
